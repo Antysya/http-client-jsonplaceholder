@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.link {
+  display: flex;
+}
+
+a {
+  font-size: 20px;
+  text-decoration: none;
+  color: gray;
+}
+
+a:hover {
+  color: coral;
+}
